@@ -3,7 +3,7 @@
 :root{
     --clr-dark: #222;
     --clr-light-accent: #CAD8E5;
-    --CLR-light: #ddd;
+    --clr-light: #eee;
 }
 
 *{
@@ -13,7 +13,7 @@
 }
 
 body{
-    background-color: var(--clr-light-accent);
+    background-color: var(--clr-light);
     color: var(--clr-dark);
     font-family: "Poppins", sans-serif;
     font-weight: 400;
@@ -26,7 +26,7 @@ h1, h2, h3 {
 .nicolet{
     --clr-dark: #22234D;
     --clr-light-accent: #CAD8E5;
-    --CLR-light: #eeeedd;
+    --clr-light: #eeeedd;
 
     h1, h2, h3{
         font-family: "EB Garamond", serif;
