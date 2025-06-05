@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap');
+
+:root{
+    --clr-dark: #22234D;
+    --clr-light-accent: #CAD8E5;
+    --CLR-light: #eeeedd;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: var(--clr-light-accent);
+    color: var(--clr-dark);
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+
+h1, h2, h3 {
+    font-family: "EB Garamond", serif;
+    font-style: normal;
+}
